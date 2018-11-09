@@ -1,3 +1,4 @@
+int blub;
 PImage img;
 PImage sorted;
 color black = (255);
